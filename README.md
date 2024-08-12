@@ -1,5 +1,5 @@
 # PLUGH
-This is a supplementary code for the paper "[PLUGH: A Benchmark for Spatial Understanding and Reasoning in Large Language Models](https://openreview.net/forum?id=p4GvlJ8NPD)," accepted for Wordplay Workshop at ACL 2024.
+This is a supplementary code for the paper "[PLUGH: A Benchmark for Spatial Understanding and Reasoning in Large Language Models](https://arxiv.org/abs/2408.04648)," accepted for Wordplay Workshop at ACL 2024.
 
 ## Abstract
 
